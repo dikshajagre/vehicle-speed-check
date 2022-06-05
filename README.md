@@ -1,5 +1,4 @@
 # Vehicle Speed Detection
-### This repo is no longer maintained.
 
 ![output.gif](output.gif)
 
